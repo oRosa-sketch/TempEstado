@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="tempestado_azul_escuro">#2A3A8A</color>
+    <color name="tempestado_azul_claro">#42A5F5</color>
+    <color name="tempestado_laranja">#FFB74D</color>
+
+    <color name="sobre">#14C9DB</color>
+
+</resources>
